@@ -1,0 +1,22 @@
+{
+  "name": "exchange-rates-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress-dev": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arturo-Castro/Exchange-rates-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arturo-Castro/Exchange-rates-project/issues"
+  },
+  "homepage": "https://github.com/Arturo-Castro/Exchange-rates-project#readme",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}
